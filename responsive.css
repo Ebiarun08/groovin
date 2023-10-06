@@ -1,0 +1,16 @@
+@media(max-width:576px){
+    .underline{
+        margin: 0 !important;
+    }
+    .port-photo{
+        display: none;
+        /* width: 510px; */
+        /* height: 385px; */
+        /* margin-top: -405px; */
+    }
+    .team-info{
+        display: none;
+        /* width: 440px; */
+    }
+
+}
